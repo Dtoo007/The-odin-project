@@ -1,2 +1,2 @@
 # The-odin-project
-a repository for every projects in the odin course 
+a repository for every courses in the odin projects
